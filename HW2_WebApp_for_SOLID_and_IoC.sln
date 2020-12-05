@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2_WebApp_for_SOLID_and_IoC", "HW2_WebApp_for_SOLID_and_IoC\HW2_WebApp_for_SOLID_and_IoC.csproj", "{C62EA9C6-2403-4D25-831A-3B2AD645795B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW2_WebApp_for_SOLID_and_IoC", "HW2_WebApp_for_SOLID_and_IoC\HW2_WebApp_for_SOLID_and_IoC.csproj", "{C62EA9C6-2403-4D25-831A-3B2AD645795B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
